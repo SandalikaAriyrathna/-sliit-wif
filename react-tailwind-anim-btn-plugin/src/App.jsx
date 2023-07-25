@@ -1,5 +1,4 @@
 import Button from './Button';
-// import './animation.css'
 
 const App = () => {
   const handleClick = () => {
