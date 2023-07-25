@@ -1,6 +1,9 @@
 @import 'animation.css';
 @import "keyframes.css";
+@import "colors.css";
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
